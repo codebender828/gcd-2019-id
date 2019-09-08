@@ -7,7 +7,7 @@ body {
 
 body {
   background: linear-gradient(rgba(145, 139, 47, 0.75), rgba(88, 0, 0, 0.85)),
-    url('./background.jpg') no-repeat center center;
+    url('../assets/images/background.jpg') no-repeat center center;
   background-size: 120vw auto;
   font-family: 'Rubik', sans-serif;
 }
